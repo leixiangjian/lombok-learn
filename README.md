@@ -1,4 +1,5 @@
 # lombok-learn<br>
+git:https://github.com/rzwitserloot/lombok<br>
 此工具主要为加速开发效率提供很多的注解，编译时会生产编译后的代码<br>
 此组件针对不同的IDE需要进行jar包的引用<br>
 例如Eclipse:<br>
